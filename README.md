@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Got it 👍 You want a **modern, aesthetic, and clean README** that acts like a GitHub-friendly resume with colors, icons, and some visual appeal.
-We can use **Markdown + Shields.io badges + Emojis + GitHub stats widgets** for styling (since GitHub README doesn’t support CSS).
-
-Here’s a professional example you can adapt:
-
----
-
 # 💼 Ankit Suman
 
 <p align="center">

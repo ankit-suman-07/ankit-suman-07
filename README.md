@@ -14,22 +14,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💼 Ankit Suman
+<!-- # 💼 Ankit Suman -->
+
+<!-- ## 👨‍💻 About Me -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-Fullstack-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=opensourceinitiative" />
+  <a href="mailto:ankitsuman07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://https://www.linkedin.com/in/ankit--suman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ankitsuman.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
----
+<p align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p  align="center">
+  Hi, I'm <b>Ankit</b>. a Software Engineer, creating everything from scalable web apps to small 2D & 3D games to clean, functional websites. I started exploring Computer Science out of curiosity, and over time, that curiosity turned into strong skills in Python, Java, and the MERN stack.I like solving problems, working with people who care about what they’re building, and learning something new every time I sit down to code.
+  </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <b>🔥 Builder At Heart. Always curious. Always building. Always learning.</b>
+</p>
 
-Hi, I’m **Ankit Suman**, a passionate **Fullstack Developer** with expertise in **MERN, Spring Boot, and Java**.
+<br>
+
+<!-- Hi, I’m **Ankit Suman**, a passionate **Fullstack Developer** with expertise in **MERN, Spring Boot, and Java**.
 I love building scalable applications, experimenting with AI/ML, and contributing to open source.
-Currently exploring **Game Development (2D Indie projects)** alongside professional development.
+Currently exploring **Game Development (2D Indie projects)** alongside professional development. -->
 
----
+<!-- 
+```
+🔥 Builder At Heart. Always curious. Always building. Always learning.
+``` -->
+
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-Fullstack-cyan?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source-Hero-green?style=for-the-badge&logo=opensourceinitiative" />
+</p>
+
+--- -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit-suman-07&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-suman-07&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-suman-07&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
 
 ## 🚀 Tech Stack
 
@@ -60,43 +89,13 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsuman-dev&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsuman-dev&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
 
 ---
 
 ## 🏆 Projects
 
-* 🎯 [**AI Review System**](#) – Built using **Spring Boot + Redis + Feign Clients**.
+
 * 📬 [**Postman Clone**](#) – Made with **Next.js + Axios** for API testing.
 * 🧠 [**Flashcards App**](#) – MERN + PostgreSQL for efficient study tools.
 * 🎮 [**Indie Game Projects**](#) – Exploring **2D game dev** with Unity & Godot.
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:ankitsuman@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ankitsuman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://ankitsuman.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
-
----
-
-🔥 Always curious. Always building. Always learning.
-
----
-
-👉 Would you like me to design **two versions** for you?
-
-* One **minimalistic professional** (text-heavy, neat for recruiters).
-* One **creative portfolio-style** (colorful, badges, icons like above).
-
-That way you can switch depending on audience.

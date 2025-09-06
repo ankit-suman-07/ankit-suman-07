@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p  align="justify">
-  Hi, I'm <b>Ankit</b>. a Software Engineer, creating everything from scalable web apps to small 2D & 3D games to clean, functional websites. I started exploring Computer Science out of curiosity, and over time, that curiosity turned into strong skills in Python, Java, and the MERN stack.I like solving problems, working with people who care about what they’re building, and learning something new every time I sit down to code.
+  I'm <b>Ankit Suman</b>. a Software Engineer, creating everything from scalable web apps to small 2D & 3D games to clean, functional websites. I started exploring Computer Science out of curiosity, and over time, that curiosity turned into strong skills in Python, Java, and the MERN stack.I like solving problems, working with people who care about what they’re building, and learning something new every time I sit down to code.
   </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 

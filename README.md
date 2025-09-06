@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="mailto:ankitsuman07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://https://www.linkedin.com/in/ankit--suman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ankit--suman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://ankitsuman.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
@@ -59,43 +59,69 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-suman-07&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
-
-## 🚀 Tech Stack
-
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=spring\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=flat\&logo=redis\&logoColor=white)
-
-### ☁️ Tools & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
-
-
-
----
-
 ## 🏆 Projects
 
 
-* 📬 [**Postman Clone**](#) – Made with **Next.js + Axios** for API testing.
-* 🧠 [**Flashcards App**](#) – MERN + PostgreSQL for efficient study tools.
-* 🎮 [**Indie Game Projects**](#) – Exploring **2D game dev** with Unity & Godot.
+### **1. 🎴 Flash Card App** - [Repository](https://github.com/ankit-suman-07/flashcards-main?tab=readme-ov-file#flash-cards)
+
+<p align="justify">
+  A research-backed flashcard app designed to improve learning and retention through retrieval practice and spaced repetition. Users can create decks, study with interactive flashcards, and track progress, with future support for images, collaboration, and AI-powered card generation.
+</p>
+
+***Tools:***
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+<br>
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+---
+
+### **2. ⏱️ untime.live - Real-Time Time Management App** -  [Repository](https://github.com/ankit-suman-07/untime.live-FE?tab=readme-ov-file#%EF%B8%8F-untimelive---effortless-time-management)
+
+<p align="justify">
+  Made using Flask & Socket.IO. untime.live is a real-time, browser-based timer and session management tool designed for collaborative environments. Whether you're running meetings, workshops, interviews, or online events, untime.live brings clarity and structure with synchronised timers that keep everyone aligned, no downloads, no clutter. Its minimal, distraction-free design ensures focus remains on what matters most: your session.
+</p>
+
+***Tools:***
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+<br>
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+
+---
+### **3. 🐾 PLATFORMS-3D** -  [Repository](https://github.com/ankit-suman-07/Platform_3D?tab=readme-ov-file#-platforms-3d)
+
+<p align="justify">
+  A 3D platformer game built in Godot 4.4 using GDScript, featuring smooth character movement, responsive jumping, and an immersive mouse-look camera. Players navigate across static and moving platforms made of different materials, collect coins with audio feedback, and rely on a dynamic landing shadow for precision. The game also incorporates realistic fall detection and intuitive score tracking for an engaging player experience.
+</p>
+
+***Tools:***
+
+![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat&logo=godot-engine&logoColor=white)
+---
+
+### **4. 🔫 PROJECTILE_2D** -  [Repository](https://github.com/ankit-suman-07/PROJECTILE_2d?tab=readme-ov-file#projectile_2d)
+
+<p align="justify">
+  a 2D shooter game crafted in Godot 4.4 using GDScript. Players control a shooter with dual-direction aim, firing limited bullets at falling targets to score points. Each hit grants temporary ammo bonuses for strategic gameplay. The game also features a polished main menu with settings to customize the beam’s color, complemented by satisfying sound effects for shooting and target hits.
+</p>
+
+***Tools:***
+
+![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat&logo=godot-engine&logoColor=white)

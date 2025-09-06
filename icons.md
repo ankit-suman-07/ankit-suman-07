@@ -30,5 +30,16 @@
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat&logo=godot-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)
+![Phone](https://img.shields.io/badge/Phone-25D366?style=flat&logo=phone&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-4DB33D?style=flat&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443d2a?style=flat&logo=react&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)  
 

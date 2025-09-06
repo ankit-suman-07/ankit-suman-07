@@ -18,21 +18,20 @@ Here are some ideas to get you started:
 
 <!-- ## 👨‍💻 About Me -->
 
-<p align="center">
-  <a href="mailto:ankitsuman07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ankit--suman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://ankitsuman.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
+
 
 <p align="center" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <p  align="center">
+  <p  align="justify">
   Hi, I'm <b>Ankit</b>. a Software Engineer, creating everything from scalable web apps to small 2D & 3D games to clean, functional websites. I started exploring Computer Science out of curiosity, and over time, that curiosity turned into strong skills in Python, Java, and the MERN stack.I like solving problems, working with people who care about what they’re building, and learning something new every time I sit down to code.
   </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <b>🔥 Builder At Heart. Always curious. Always building. Always learning.</b>
-</p>
+**Gmail:** ankitsuman07@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)<br>
+**LinkedIn:** https://www.linkedin.com/in/ankit--suman/ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)<br>
+**LeetCode:** https://leetcode.com/u/ankit_suman/ ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+
+
+
 
 <br>
 
@@ -72,6 +71,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-443d2a?style=flat&logo=react&logoColor=white)
 <br>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
@@ -118,10 +118,32 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 ### **4. 🔫 PROJECTILE_2D** -  [Repository](https://github.com/ankit-suman-07/PROJECTILE_2d?tab=readme-ov-file#projectile_2d)
 
 <p align="justify">
-  a 2D shooter game crafted in Godot 4.4 using GDScript. Players control a shooter with dual-direction aim, firing limited bullets at falling targets to score points. Each hit grants temporary ammo bonuses for strategic gameplay. The game also features a polished main menu with settings to customize the beam’s color, complemented by satisfying sound effects for shooting and target hits.
+  A 2D shooter game crafted in Godot 4.4 using GDScript. Players control a shooter with dual-direction aim, firing limited bullets at falling targets to score points. Each hit grants temporary ammo bonuses for strategic gameplay. The game also features a polished main menu with settings to customize the beam’s color, complemented by satisfying sound effects for shooting and target hits.
 </p>
 
 ***Tools:***
 
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat&logo=godot-engine&logoColor=white)
+---
+
+### **5. 🛒 E-Commerce** -  [Repository](https://github.com/ankit-suman-07/e-commerce-FE?tab=readme-ov-file#e-commerce-frontend)
+
+<p align="justify">
+  A responsive React web app featuring dynamic product search, filtering, and cart interactions powered by Redux for state management. Users enjoy seamless API-driven content loading via Axios, real-time toast notifications for events, and intuitive loading spinners during data fetches. Designed mobile-first, the interface adapts across screen sizes while delivering a polished browsing and shopping experience.
+</p>
+
+***Tools:***
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+---
+<p align="center">
+  <b>🔥 Builder At Heart. Always curious. Always building. Always learning.</b>
+</p>
+<p align="center">
+  <a href="mailto:ankitsuman07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ankit--suman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>

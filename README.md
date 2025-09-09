@@ -81,7 +81,9 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 <br>
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+
 ---
 
 ### **2. ⏱️ untime.live - Real-Time Time Management App** -  [Repository](https://github.com/ankit-suman-07/untime.live-FE?tab=readme-ov-file#%EF%B8%8F-untimelive---effortless-time-management)
@@ -113,6 +115,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat&logo=godot-engine&logoColor=white)
+
 ---
 
 ### **4. 🔫 PROJECTILE_2D** -  [Repository](https://github.com/ankit-suman-07/PROJECTILE_2d?tab=readme-ov-file#projectile_2d)
@@ -125,6 +128,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat&logo=godot-engine&logoColor=white)
+
 ---
 
 ### **5. 🛒 E-Commerce** -  [Repository](https://github.com/ankit-suman-07/e-commerce-FE?tab=readme-ov-file#e-commerce-frontend)
@@ -139,7 +143,9 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+
 ---
+
 <p align="center">
   <b>🔥 Builder At Heart. Always curious. Always building. Always learning.</b>
 </p>

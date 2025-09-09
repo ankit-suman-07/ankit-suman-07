@@ -42,4 +42,4 @@
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443d2a?style=flat&logo=react&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)  
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)

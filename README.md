@@ -61,7 +61,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 ## 🏆 Projects
 
 
-### **1. 🎴 Flash Card App** - [Repository](https://github.com/ankit-suman-07/flashcards-main?tab=readme-ov-file#flash-cards)
+### **1️⃣. 🎴 Flash Card App** - [Repository](https://github.com/ankit-suman-07/flashcards-main?tab=readme-ov-file#flash-cards)
 
 <p align="justify">
   A research-backed flashcard app designed to improve learning and retention through retrieval practice and spaced repetition. Users can create decks, study with interactive flashcards, and track progress, with future support for images, collaboration, and AI-powered card generation.
@@ -86,7 +86,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 
 ---
 
-### **2. ⏱️ untime.live - Real-Time Time Management App** -  [Repository](https://github.com/ankit-suman-07/untime.live-FE?tab=readme-ov-file#%EF%B8%8F-untimelive---effortless-time-management)
+### **2️⃣. ⏱️ untime.live - Real-Time Time Management App** -  [Repository](https://github.com/ankit-suman-07/untime.live-FE?tab=readme-ov-file#%EF%B8%8F-untimelive---effortless-time-management)
 
 <p align="justify">
   Made using Flask & Socket.IO. untime.live is a real-time, browser-based timer and session management tool designed for collaborative environments. Whether you're running meetings, workshops, interviews, or online events, untime.live brings clarity and structure with synchronised timers that keep everyone aligned, no downloads, no clutter. Its minimal, distraction-free design ensures focus remains on what matters most: your session.
@@ -105,7 +105,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
 ---
-### **3. 🐾 PLATFORMS-3D** -  [Repository](https://github.com/ankit-suman-07/Platform_3D?tab=readme-ov-file#-platforms-3d)
+### **3️⃣. 🐾 PLATFORMS-3D** -  [Repository](https://github.com/ankit-suman-07/Platform_3D?tab=readme-ov-file#-platforms-3d)
 
 <p align="justify">
   A 3D platformer game built in Godot 4.4 using GDScript, featuring smooth character movement, responsive jumping, and an immersive mouse-look camera. Players navigate across static and moving platforms made of different materials, collect coins with audio feedback, and rely on a dynamic landing shadow for precision. The game also incorporates realistic fall detection and intuitive score tracking for an engaging player experience.
@@ -118,7 +118,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 
 ---
 
-### **4. 🔫 PROJECTILE_2D** -  [Repository](https://github.com/ankit-suman-07/PROJECTILE_2d?tab=readme-ov-file#projectile_2d)
+### **4️⃣ . 🔫 PROJECTILE_2D** -  [Repository](https://github.com/ankit-suman-07/PROJECTILE_2d?tab=readme-ov-file#projectile_2d)
 
 <p align="justify">
   A 2D shooter game crafted in Godot 4.4 using GDScript. Players control a shooter with dual-direction aim, firing limited bullets at falling targets to score points. Each hit grants temporary ammo bonuses for strategic gameplay. The game also features a polished main menu with settings to customize the beam’s color, complemented by satisfying sound effects for shooting and target hits.
@@ -131,7 +131,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
 
 ---
 
-### **5. 🛒 E-Commerce** -  [Repository](https://github.com/ankit-suman-07/e-commerce-FE?tab=readme-ov-file#e-commerce-frontend)
+### **5️⃣. 🛒 E-Commerce** -  [Repository](https://github.com/ankit-suman-07/e-commerce-FE?tab=readme-ov-file#e-commerce-frontend)
 
 <p align="justify">
   A responsive React web app featuring dynamic product search, filtering, and cart interactions powered by Redux for state management. Users enjoy seamless API-driven content loading via Axios, real-time toast notifications for events, and intuitive loading spinners during data fetches. Designed mobile-first, the interface adapts across screen sizes while delivering a polished browsing and shopping experience.

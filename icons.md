@@ -49,3 +49,5 @@
 ![Zustand](https://img.shields.io/badge/Zustand-443d2a?style=flat&logo=react&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-2AAB2A?style=flat&logo=mockito&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)

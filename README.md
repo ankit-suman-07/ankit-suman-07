@@ -67,7 +67,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
   A research-backed flashcard app designed to improve learning and retention through retrieval practice and spaced repetition. Users can create decks, study with interactive flashcards, and track progress, with future support for images, collaboration, and AI-powered card generation.
 </p>
 
-***Tools:***
+***Tools:*** 🔨
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
@@ -92,7 +92,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
   Made using Flask & Socket.IO. untime.live is a real-time, browser-based timer and session management tool designed for collaborative environments. Whether you're running meetings, workshops, interviews, or online events, untime.live brings clarity and structure with synchronised timers that keep everyone aligned, no downloads, no clutter. Its minimal, distraction-free design ensures focus remains on what matters most: your session.
 </p>
 
-***Tools:***
+***Tools:*** 🔨
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
@@ -111,7 +111,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
   A 3D platformer game built in Godot 4.4 using GDScript, featuring smooth character movement, responsive jumping, and an immersive mouse-look camera. Players navigate across static and moving platforms made of different materials, collect coins with audio feedback, and rely on a dynamic landing shadow for precision. The game also incorporates realistic fall detection and intuitive score tracking for an engaging player experience.
 </p>
 
-***Tools:***
+***Tools:*** 🔨
 
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat&logo=godot-engine&logoColor=white)
@@ -124,7 +124,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
   A 2D shooter game crafted in Godot 4.4 using GDScript. Players control a shooter with dual-direction aim, firing limited bullets at falling targets to score points. Each hit grants temporary ammo bonuses for strategic gameplay. The game also features a polished main menu with settings to customize the beam’s color, complemented by satisfying sound effects for shooting and target hits.
 </p>
 
-***Tools:***
+***Tools:*** 🔨
 
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat&logo=godot-engine&logoColor=white)
@@ -137,7 +137,7 @@ Currently exploring **Game Development (2D Indie projects)** alongside professio
   A responsive React web app featuring dynamic product search, filtering, and cart interactions powered by Redux for state management. Users enjoy seamless API-driven content loading via Axios, real-time toast notifications for events, and intuitive loading spinners during data fetches. Designed mobile-first, the interface adapts across screen sizes while delivering a polished browsing and shopping experience.
 </p>
 
-***Tools:***
+***Tools:*** 🔨
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)

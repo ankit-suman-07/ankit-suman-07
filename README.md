@@ -26,10 +26,10 @@ Here are some ideas to get you started:
   </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Gmail:** ankitsuman07@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)<br>
-**LinkedIn:** https://www.linkedin.com/in/ankit--suman/ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)<br>
-**LeetCode:** https://leetcode.com/u/ankit_suman/ ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
-**Portfolio:** https://ankitsuman.live ![Web](https://ankitsuman.live/)
+- **Gmail:** ankitsuman07@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)<br>
+- **LinkedIn:** https://www.linkedin.com/in/ankit--suman/ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)<br>
+- **LeetCode:** https://leetcode.com/u/ankit_suman/ ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+- **Portfolio:** https://ankitsuman.live ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 
 
